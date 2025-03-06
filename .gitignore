@@ -1,1 +1,18 @@
- 
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+
+# Logs
+*.log
+
+# Intermediate results
+intermediate_results_*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
